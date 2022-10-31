@@ -1,0 +1,3 @@
+[submodule "dotnet-stackspot-cleanarchitecture-template"]
+	path = dotnet-stackspot-cleanarchitecture-template
+	url = https://github.com/Scaffold-dotnet/dotnet-stackspot-cleanarchitecture-template.git
